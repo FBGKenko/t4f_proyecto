@@ -1,0 +1,10 @@
+section {
+    background-image: url("../img/logo.png");
+    weight: auto;
+    height: auto;
+    background-repeat: no-repeat;
+    
+    /*
+    background:linear-gradient(top, black 10%, orangered 75%, yellow);  
+    */
+}
