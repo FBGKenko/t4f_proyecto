@@ -6,6 +6,7 @@
 
 @section('body')
 
+<section></section>
 <div class="Encabezado">
     
 </div>
